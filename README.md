@@ -21,11 +21,6 @@ Sinh viên ngành Công nghệ Thông tin tại Đại học Công nghệ Kỹ t
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mittododo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 ## Contact
 
