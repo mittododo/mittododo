@@ -24,7 +24,7 @@ Sinh viên ngành Công nghệ Thông tin tại Đại học Công nghệ Kỹ t
 
 ## Contact
 
-- 📫 Email: [tranhuuthanhdo123@gmail.com](mailto:tranhuuthanhdo123@gmail.com)
-- 💬 GitHub: [@mittododo](https://github.com/mittododo)
+-  Email: [tranhuuthanhdo123@gmail.com](mailto:tranhuuthanhdo123@gmail.com)
+-  GitHub: [@mittododo](https://github.com/mittododo)
 
 > “Học tập không ngừng, phát triển mỗi ngày.”
